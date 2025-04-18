@@ -42,7 +42,3 @@ This is still a work in progress! I've implemented the basic simulation and it's
 3. Run all cells in sequence
 4. Results will be saved as CSV and HTML files
 
-## References
-
-This project is based on my professor's thesis proposal on multi-agent dialogue systems and uses the Inspect framework.
-
