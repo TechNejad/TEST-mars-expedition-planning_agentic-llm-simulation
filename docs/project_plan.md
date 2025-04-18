@@ -22,7 +22,7 @@ I'm not sure exactly how to implement these personalities yet, but I'll probably
 
 ## 3. Figure Out the "Internal Reasoning" Part
 
-My professor wants each agent to have some kind of "hidden scratchpad" that shows what they're thinking before they respond. I need to make each agent:
+I want each agent to have some kind of "hidden scratchpad" that shows what they're thinking before they respond. I need to make each agent:
 - Process what the other agent said
 - Think about risks/benefits
 - Come up with a response
@@ -39,7 +39,7 @@ I need to save all the dialogue turns with:
 - What they actually say
 - Maybe some tags?
 
-I'll probably just use CSV since it's simple.
+I will try using CSV.
 
 ## 5. Add the Mars Mission Constraints
 
@@ -50,5 +50,4 @@ Need to make sure the simulation includes these constraints:
 - Random problems like dust storms
 
 I'm not sure if I need to explicitly code these in or just mention them in the initial prompt. Will figure this out as I go.
-
-Next step is to start coding and see what works!
+....
