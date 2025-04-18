@@ -1,6 +1,6 @@
 # Mars Expedition Planning Simulation
 
-This is my project for the Multi-Agent Dialogue Systems course. I'm creating a simulation where two AI agents with different personalities plan a Mars expedition together.
+This is an ongoing project (at the moment in its most basic format) aimed at creating a simulation where two AI agents with different roles plan a Mars expedition together.
 
 ## Project Overview
 
