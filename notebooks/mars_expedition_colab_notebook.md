@@ -6,8 +6,7 @@ This Google Colab notebook implements a multi-agent dialogue simulation for plan
 # Mars Expedition Planning: Multi-Agent Dialogue Simulation
 # Using Inspect Framework and Llama 3 8B
 
-# @title Setup and Installation
-# @markdown Run this cell to install required packages and mount Google Drive
+# Setup and Installation
 
 import os
 import sys
