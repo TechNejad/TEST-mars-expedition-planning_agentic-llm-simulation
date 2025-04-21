@@ -1,4 +1,4 @@
-#**Mars Expedition Planning: Agentic LLM Simulation**
+#Mars Expedition Planning: Agentic LLM Simulation
 
 This is an ongoing project (at the moment in its most basic format) aimed at creating a simulation where two AI agents with different roles plan a Mars expedition together.
 
