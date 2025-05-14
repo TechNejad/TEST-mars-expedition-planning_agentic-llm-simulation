@@ -32,11 +32,6 @@ drive.mount('/content/drive')
 output_dir = '/content/drive/MyDrive/mars_expedition_simulation'
 os.makedirs(output_dir, exist_ok=True)
 
-# Import Inspect framework
-from inspect_ai import Task, task
-from inspect_ai.agent import Agent, AgentState, agent, run, react, handoff
-from inspect_ai.model import ChatMessageSystem, ChatMessageUser, ChatMessageAssistant
-
 # Import Transformers for model loading
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
