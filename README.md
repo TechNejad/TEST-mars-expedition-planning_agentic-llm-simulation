@@ -16,7 +16,6 @@ The agents need to plan a Mars expedition with constraints like:
 ## Implementation
 
 I'm using:
-- The Inspect framework for managing the dialogue
 - Llama 3 8B model from Hugging Face (runs on Google Colab's free tier)
 - Internal reasoning ("scratchpad") for each agent
 - CSV logging to record the conversation
