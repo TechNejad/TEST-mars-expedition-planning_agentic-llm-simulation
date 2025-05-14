@@ -1,7 +1,7 @@
 """
 # Mars Expedition Planning: Multi-Agent Dialogue Simulation
 
-This notebook implements a multi-agent dialogue simulation for planning a Mars expedition using the Inspect framework and Llama 3 8B model.
+This notebook implements a multi-agent dialogue simulation for planning a Mars expedition using Llama 3 8B model.
 
 ## Overview
 - Two agents with distinct roles (Cautious Planner and Goal-Driven Strategist) collaborate on planning a Mars expedition
@@ -9,10 +9,6 @@ This notebook implements a multi-agent dialogue simulation for planning a Mars e
 - Dialogue is logged in structured format (CSV)
 - The simulation runs for 20 turns total (10 per agent)
 
-## Requirements
-- Inspect framework for multi-agent dialogue
-- Llama 3 8B model from Hugging Face
-- Google Colab with GPU runtime
 """
 
 # Setup and Installation
