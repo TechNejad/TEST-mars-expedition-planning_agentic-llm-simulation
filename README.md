@@ -28,16 +28,10 @@ I'm using:
 
 ## Current Status
 
-This is still a work in progress! I've implemented the basic simulation and it's running, but there are several things I still want to improve:
+This is still a work in progress! I've implemented the basic simulation, and it's running, but there are several things I still want to improve:
 - Make the agent personalities more distinct
-- Improve the internal reasoning
+- Improve the internal reasoning and maybe give agents a basic memory function  
 - Add more realistic Mars mission constraints
 - Create better visualizations of the results
 
-## How to Run
-
-1. Open the Colab notebook in `/notebooks`
-2. Make sure to select a GPU runtime
-3. Run all cells in sequence
-4. Results will be saved as CSV and HTML files
 
