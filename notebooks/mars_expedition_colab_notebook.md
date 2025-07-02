@@ -1,6 +1,6 @@
 # Google Colab Notebook: Mars Expedition Planning Multi-Agent Simulation
 
-This Google Colab notebook implements a multi-agent dialogue simulation for planning a Mars expedition using the Inspect framework and Llama 3 8B model.
+This Google Colab notebook implements a multi-agent dialogue simulation for planning a Mars expedition using Llama 3 8B model.
 
 ```python
 # Mars Expedition Planning: Multi-Agent Dialogue Simulation
@@ -367,14 +367,6 @@ def mars_expedition_planning():
 print("Inspect integration example defined!")
 ```
 
-## How to Use This Notebook
-
-1. Open this notebook in Google Colab
-2. Make sure to select a GPU runtime (Runtime > Change runtime type > Hardware accelerator > GPU)
-3. Run each cell in sequence
-4. The simulation will run for 20 turns (10 per agent)
-5. Results will be saved to your Google Drive in CSV and HTML formats
-
 ## Key Features
 
 - Uses Llama 3 8B model from Hugging Face
@@ -382,7 +374,6 @@ print("Inspect integration example defined!")
 - Includes internal reasoning (scratchpad) for each agent
 - Logs dialogue in structured format (CSV)
 - Provides HTML visualization of the dialogue
-- Shows alternative implementation using Inspect framework directly
 
 ## Requirements
 
